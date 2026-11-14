@@ -1,0 +1,29 @@
+# Input data (IVC Research Center, commercial licence - never commit)
+data/
+DATA/
+*.xlsx
+*.xls
+*.csv
+
+# Outputs (derived from the licensed data)
+output/
+outputs/
+TEST/
+figures/
+*.png
+results.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
